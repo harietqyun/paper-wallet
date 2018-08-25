@@ -8,10 +8,13 @@ Generate paper wallet for bitcoin and altcoins with CLI.
 
 [![Dependency Status](https://img.shields.io/david/package/paper-wallet.svg?style=flat-square)](https://david-dm.org/package/paper-wallet)
 
+[![Downloads][downloads-image]][downloads-url]
+
 
 [npm-url]: https://www.npmjs.com/package/paper-wallet
 
-
+[downloads-image]: https://img.shields.io/npm/dm/paper-wallet.svg?style=flat-square
+[downloads-url]: https://www.npmjs.com/package/paper-wallet
 
 ## Installation
 ```bash
