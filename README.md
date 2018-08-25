@@ -1,6 +1,5 @@
 # paper-wallet
 
-Generate paper wallet for bitcoin and altcoins with CLI.
 
 [![NPM version][npm-image]][npm-url][![Dependency Status](https://img.shields.io/david/harietqyun/paper-wallet.svg?style=flat-square)](https://david-dm.org/harietqyun/paper-wallet)[![Downloads][downloads-image]][downloads-url]
 
@@ -8,6 +7,9 @@ Generate paper wallet for bitcoin and altcoins with CLI.
 [npm-url]: https://www.npmjs.com/package/paper-wallet
 [downloads-image]: https://img.shields.io/npm/dm/paper-wallet.svg?style=flat-square
 [downloads-url]: https://www.npmjs.com/package/paper-wallet
+
+Generate paper wallet for bitcoin and altcoins with CLI.
+
 
 ## Installation
 ```bash
@@ -32,6 +34,12 @@ It's recommended to use an air-gapped computer for high value paper wallet gener
 * Disconnect from network
 
 * Generate and print the paper wallet
+
+## Preview
+https://github.com/harietqyun/paper-wallet/blob/master/preview?raw=true
+
+
+![alt text](https://raw.githubusercontent.com/harietqyun/paper-wallet/master/iota-cli-paper-wallet-preview.png)
 
 ## Donations
 BTC: 19uibExshDiqF8X2TBLaEiMK2WJ9j2xfAS
