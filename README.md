@@ -2,7 +2,7 @@
 
 Generate paper wallet for bitcoin and altcoins with CLI.
 
-
+[![npm package](https://nodei.co/npm/bitcoin-rpc-promise.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bitcoin-rpc-promise/)
 
 ## Installation
 ```bash
