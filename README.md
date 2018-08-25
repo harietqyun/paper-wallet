@@ -8,7 +8,7 @@ Generate paper wallet for bitcoin and altcoins with CLI.
 
 [![Downloads][downloads-image]][downloads-url]
 
-
+[npm-image]: https://img.shields.io/npm/v/bitcoin-rpc-promise.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/paper-wallet
 [downloads-image]: https://img.shields.io/npm/dm/paper-wallet.svg?style=flat-square
 [downloads-url]: https://www.npmjs.com/package/paper-wallet
