@@ -36,10 +36,8 @@ It's recommended to use an air-gapped computer for high value paper wallet gener
 * Generate and print the paper wallet
 
 ## Preview
-https://github.com/harietqyun/paper-wallet/blob/master/preview?raw=true
 
-
-![alt text](https://raw.githubusercontent.com/harietqyun/paper-wallet/master/iota-cli-paper-wallet-preview.png)
+![alt text](https://raw.githubusercontent.com/harietqyun/paper-wallet/master/preview.png)
 
 ## Donations
 BTC: 19uibExshDiqF8X2TBLaEiMK2WJ9j2xfAS
