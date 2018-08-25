@@ -2,7 +2,9 @@
 
 Generate paper wallet for bitcoin and altcoins with CLI.
 
-[![npm package](https://nodei.co/npm/bitcoin-rpc-promise.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bitcoin-rpc-promise/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharietqyun%2Fpaper-wallet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharietqyun%2Fpaper-wallet?ref=badge_shield)
+
+
 
 ## Installation
 ```bash
