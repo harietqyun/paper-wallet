@@ -1,0 +1,21 @@
+{
+  "name": "paper-wallet",
+  "version": "1.0.0",
+  "description": "Generate paper wallet for bitcoin with CLI.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "coininfo": "^4.3.0",
+    "coinkey": "^3.0.0",
+    "hdkey": "^1.1.0",
+    "pdfkit": "^0.8.3",
+    "qr-image": "^3.2.0",
+    "temp": "^0.8.3",
+    "text-qrcode": "^0.1.0"
+  }
+}
