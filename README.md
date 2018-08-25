@@ -2,6 +2,8 @@
 
 Generate paper wallet for bitcoin and altcoins with CLI.
 
+
+
 ## Installation
 ```bash
 npm install -g paper-wallet

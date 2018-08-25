@@ -7,6 +7,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "paper wallet","bitcoin","litecoin","bitcoin gold","dash","doge","zcash"
+  ],
+  "files": ["index.js"  ],
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/harietqyun/paper-wallet.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/harietqyun/paper-wallet/issues"
+},
+
+"homepage": "https://harietqyun.github.io/paper-wallet/",
+
   "author": "",
   "license": "MIT",
   "dependencies": {
