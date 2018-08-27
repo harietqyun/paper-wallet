@@ -1,33 +1,53 @@
 {
   "name": "paper-wallet",
-  "version": "1.0.3",
-  "description": "Generate paper wallet for bitcoin with CLI.",
+  "version": "1.0.5",
+  "description": "Generate paper wallet for bitcoin and altcoins with CLI.",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "paper wallet","bitcoin","litecoin","bitcoin gold","dash","doge","zcash"
+    "Paper Wallet",
+    "Bitcoin",
+    "Bitcoin Cash",
+    "Bitcoin Gold",
+    "Dash",
+    "Ethereum",
+    "Dogecoin",
+    "Litecoin",
+    "Zcash",
+    "EOS",
+    "BTC",
+    "BCH",
+    "BTG",
+    "DASH",
+    "DOGE",
+    "ETH",
+    "LTC",
+    "ZEC"
+    
   ],
-  "files": ["index.js"  ],
- 
+  "files": [
+    "index.js",
+    "coins"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://github.com/harietqyun/paper-wallet.git"
   },
-
   "bugs": {
     "url": "https://github.com/harietqyun/paper-wallet/issues"
-},
-
-"homepage": "https://harietqyun.github.io/paper-wallet/",
-
-  "author": "",
+  },
+  "homepage": "https://harietqyun.github.io/paper-wallet/",
+  "author": "harietqyun",
   "license": "MIT",
   "dependencies": {
+    "bchaddrjs": "^0.2.2",
+    "coinethjs": "^1.0.0",
     "coininfo": "^4.3.0",
     "coinkey": "^3.0.0",
+    "eosjs-ecc": "^4.0.4",
     "hdkey": "^1.1.0",
     "pdfkit": "^0.8.3",
     "qr-image": "^3.2.0",

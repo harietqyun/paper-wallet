@@ -1,6 +1,5 @@
 # paper-wallet
 
-
 [![NPM version][npm-image]][npm-url][![Dependency Status](https://img.shields.io/david/harietqyun/paper-wallet.svg?style=flat-square)](https://david-dm.org/harietqyun/paper-wallet)[![Downloads][downloads-image]][downloads-url]
 
 [npm-image]: https://img.shields.io/npm/v/paper-wallet.svg?style=flat-square
@@ -10,6 +9,16 @@
 
 Generate paper wallet for bitcoin and altcoins with CLI.
 
+## Supported Coins
+* Bitcoin (BTC)
+* Bitcoin Cash (BCH)
+* Bitcoin Gold (BTG)
+* Dash (DASH)
+* Dogecoin (DOGE)
+* EOS (EOS)
+* Ethereum (ETH)
+* Litecoin (LTC)
+* Zcash (ZEC)
 
 ## Installation
 ```bash
@@ -18,7 +27,7 @@ npm install -g paper-wallet
 
 ## Usage
 ```bash
-paper-wallet [btc|btg|dash|doge|ltc|zec]
+paper-wallet [btc|bch|btg|dash|doge|eos|eth|ltc|zec]
 ```
 
 paper-wallet.pdf file will be generated in current folder for printing.
