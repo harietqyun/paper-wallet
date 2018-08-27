@@ -54,7 +54,7 @@ async function main() {
     size: 'A4'
   });
 
-  var pdfFile = path.join(__dirname, `paper-wallet-${symbol}-${Date.now()}.pdf`);
+  var pdfFile =  `paper-wallet-${symbol}-${Date.now()}.pdf`;
 
   doc.pipe(fs.createWriteStream(pdfFile));
 
