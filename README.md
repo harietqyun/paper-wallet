@@ -14,10 +14,15 @@ Generate paper wallet for bitcoin and altcoins with CLI.
 * Bitcoin Cash (BCH)
 * Bitcoin Gold (BTG)
 * Dash (DASH)
+* Decred (DCR)
 * Dogecoin (DOGE)
 * EOS (EOS)
+* Ethereum Classic (ETC)
 * Ethereum (ETH)
 * Litecoin (LTC)
+* Monacoin (MONA)
+* Qtum (QTUM)
+* Reddcoin (RDD)
 * Zcash (ZEC)
 
 ## Installation
@@ -27,10 +32,10 @@ npm install -g paper-wallet
 
 ## Usage
 ```bash
-paper-wallet [btc|bch|btg|dash|doge|eos|eth|ltc|zec]
+paper-wallet [btc|bch|btg|dash|dcr|doge|eos|eth|ltc|mona|qtum|rdd|zec]
 ```
 
-paper-wallet.pdf file will be generated in current folder for printing.
+paper-wallet-[symbol]-[timestamp].pdf file will be generated in current folder for printing.
 
 ## Secure Offline Paper Wallet Generation
 
