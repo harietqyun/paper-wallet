@@ -1,6 +1,6 @@
 {
   "name": "paper-wallet",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Generate paper wallet for bitcoin and altcoins with CLI.",
   "main": "index.js",
   "bin": "index.js",
