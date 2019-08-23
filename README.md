@@ -23,6 +23,7 @@ Generate paper wallet for bitcoin and altcoins with CLI.
 * Monacoin (MONA)
 * Qtum (QTUM)
 * Reddcoin (RDD)
+* SmartCryptoTech
 * Zcash (ZEC)
 
 ## Installation
@@ -32,7 +33,7 @@ npm install -g paper-wallet
 
 ## Usage
 ```bash
-paper-wallet [btc|bch|btg|dash|dcr|doge|eos|eth|ltc|mona|qtum|rdd|zec]
+paper-wallet [btc|bch|btg|dash|dcr|doge|eos|eth|ltc|mona|qtum|rdd|sct|zec]
 ```
 
 paper-wallet-[symbol]-[timestamp].pdf file will be generated in current folder for printing.
@@ -51,7 +52,7 @@ It's recommended to use an air-gapped computer for high value paper wallet gener
 
 ## Preview
 
-![alt text](https://raw.githubusercontent.com/harietqyun/paper-wallet/master/preview.png)
+![alt text](https://raw.githubusercontent.com/CryptoLover705/npm-paper-wallet/master/preview.png)
 
 ## Donations
 BTC: 19uibExshDiqF8X2TBLaEiMK2WJ9j2xfAS
