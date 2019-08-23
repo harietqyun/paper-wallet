@@ -1,6 +1,6 @@
 # paper-wallet
 
-[![NPM version][npm-image]][npm-url][![Dependency Status](https://img.shields.io/david/harietqyun/paper-wallet.svg?style=flat-square)](https://david-dm.org/harietqyun/paper-wallet)[![Downloads][downloads-image]][downloads-url]
+[![NPM version][npm-image]][npm-url][![Dependency Status](https://img.shields.io/david/CryptoLover705/npm-paper-wallet)](https://david-dm.org/harietqyun/paper-wallet)[![Downloads][downloads-image]][downloads-url]
 
 [npm-image]: https://img.shields.io/npm/v/paper-wallet.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/paper-wallet
@@ -23,7 +23,7 @@ Generate paper wallet for bitcoin and altcoins with CLI.
 * Monacoin (MONA)
 * Qtum (QTUM)
 * Reddcoin (RDD)
-* SmartCryptoTech
+* SmartCryptoTech (SCT)
 * Zcash (ZEC)
 
 ## Installation
