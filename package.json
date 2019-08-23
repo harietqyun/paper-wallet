@@ -1,5 +1,5 @@
 {
-  "name": "paper-wallet",
+  "name": "npm-paper-wallet",
   "version": "1.0.7",
   "description": "Generate paper wallet for bitcoin and altcoins with CLI.",
   "main": "index.js",
